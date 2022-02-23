@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Eclipse
+Comment=Eclipse Integrated Development Environment
+Icon=/home/jon/Documents/eclipse-dsl/eclipse/icon.xpm
+Exec=/home/jon/Documents/eclipse-dsl/eclipse/eclipse
+Terminal=false
+Categories=Development;IDE;Java
