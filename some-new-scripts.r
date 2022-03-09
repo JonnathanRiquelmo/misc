@@ -28,9 +28,9 @@
 
 # BOXPLOT
 #	TIME (EFFORT)
-	boxplot(GraphicT, TextualT, col=(c("darkgreen","darkorange")), names=c("Graphical Treatment","Textual Treatment"), ylab="Time (minutes)", cex=1.5, cex.lab= 1.5, cex.axis= 1.5)
+	boxplot(GraphicT, TextualT, col=(c("darkgreen","darkorange")), names=c("Graphical Treatment","Textual Treatment"), ylab="Time (minutes)", cex=1.5, cex.lab= 1.5, cex.axis= 1.5, outline=FALSE)
 #	FSCORE (EFFECTIVENESS)
-	boxplot(GraphicFS, TextualFS, col=(c("darkgreen","darkorange")), names=c("Graphical Treatment","Textual Treatment"), ylab="Percentage (%)", cex=1.5, cex.lab= 1.5, cex.axis= 1.5)
+	boxplot(GraphicFS, TextualFS, col=(c("darkgreen","darkorange")), names=c("Graphical Treatment","Textual Treatment"), ylab="Percentage (%)", cex=1.5, cex.lab= 1.5, cex.axis= 1.5, outline=FALSE)
 	
 # ==============================================================================
 
@@ -39,5 +39,5 @@
 	qqline(NormalityT, col=4, lwd=2,lty=1)
 	qqnorm(NormalityFS,main=NULL, xlab = "",ylab = "",cex = 2, pch = 1,cex.lab= 1.5, cex.axis= 1.5)
 	qqline(NormalityFS, col=4, lwd=2,lty=1,)
-	boxplot(GraphicT, TextualT, col=(c("darkgreen","darkorange")), names=c("Graphical Treatment","Textual Treatment"), ylab="Time (minutes)", cex=1.5, cex.lab= 1.5, cex.axis= 1.5)
-	boxplot(GraphicFS, TextualFS, col=(c("darkgreen","darkorange")), names=c("Graphical Treatment","Textual Treatment"), ylab="Percentage (%)", cex=1.5, cex.lab= 1.5, cex.axis= 1.5)
+	boxplot(GraphicT, TextualT, col=(c("darkgreen","darkorange")), names=c("Graphical Treatment","Textual Treatment"), ylab="Time (minutes)", cex=1.5, cex.lab= 1.5, cex.axis= 1.5, outline=FALSE)
+	boxplot(GraphicFS, TextualFS, col=(c("darkgreen","darkorange")), names=c("Graphical Treatment","Textual Treatment"), ylab="Percentage (%)", cex=1.5, cex.lab= 1.5, cex.axis= 1.5, outline=FALSE)
