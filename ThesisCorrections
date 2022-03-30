@@ -1,40 +1,40 @@
 DEFESA JONNATHAN
 
 RONALDO
-- Destacar melhor as contribuições científicas do estudo
-- Contribuições que estão por trás da Ferramenta
-- Melhorar a discussão dos trabalhos relacionados
-- Isolar o capítulo de Trabalhos Relacionados, dando mais ênfase ao comparativo dos produto e proposta
-- O que a DSL trás de aspectos inovadores comparado com outras ferramentas que já existem
-- Quais aspectos de usabilidade são inovadores comparados com outras DSL existentes
-- Compromete a originalidade da proposta de pesquisa
-- Texto do volume está em técnico, com pouco discussão do estado da arte
-- Listar na introdução as principais contribuições da dissertação
-- Incluir dados da publicação do ERES 2021 (Multivocal) para complementar a discussão dos Trabalhos Relacionados
-- Estender a DSL para implementar EER novos construtores (atributos compostos, entidade-associativa, etc)
-- Explicar melhor na gramática o detalhe dos relacionamentos binários e ternários. Lembrando que ela não atende N árias. Explicar melhor o Relation e o RelationSideLeft e RelationSideRight
-- Destacar o diferencial do TCC vs Dissertação, quais os aspectos da evolução e manutenção do projeto.
-- Referências sem ANO, rever!
-- No experimento, deixar mais claro quais os domínios dos instrumentos (cases) que os alunos tiveram que modelar.
-- Page 31 What is the state of the art of mechanisms for transforming conceptual models? Rever a nomenclatura.
-- Page 37 "database objects" > "database resources" acha que fica mais adequado. Recursos em nível físico para garantir restrições, integridades e consistências.
-- Page 61 resultados da avaliação talvez 
+[ ] - Destacar melhor as contribuições científicas do estudo
+[ ] - Contribuições que estão por trás da Ferramenta
+[ ] - Melhorar a discussão dos trabalhos relacionados
+[ ] - Isolar o capítulo de Trabalhos Relacionados, dando mais ênfase ao comparativo dos produto e proposta
+[ ] - O que a DSL trás de aspectos inovadores comparado com outras ferramentas que já existem
+[ ] - Quais aspectos de usabilidade são inovadores comparados com outras DSL existentes
+[ ] - Compromete a originalidade da proposta de pesquisa
+[ ] - Texto do volume está em técnico, com pouco discussão do estado da arte
+[ ] - Listar na introdução as principais contribuições da dissertação
+[ ] - Incluir dados da publicação do ERES 2021 (Multivocal) para complementar a discussão dos Trabalhos Relacionados
+[ ] - Estender a DSL para implementar EER novos construtores (atributos compostos, entidade-associativa, etc)
+[ ] - Explicar melhor na gramática o detalhe dos relacionamentos binários e ternários. Lembrando que ela não atende N árias. Explicar melhor o Relation e o RelationSideLeft e RelationSideRight
+[ ] - Destacar o diferencial do TCC vs Dissertação, quais os aspectos da evolução e manutenção do projeto.
+[ ] - Referências sem ANO, rever!
+[ ] - No experimento, deixar mais claro quais os domínios dos instrumentos (cases) que os alunos tiveram que modelar.
+[ ] - Page 31 What is the state of the art of mechanisms for transforming conceptual models? Rever a nomenclatura.
+[V] - Page 37 "database objects" > "database resources" acha que fica mais adequado. Recursos em nível físico para garantir restrições, integridades e consistências.
+[ ] - Page 61 resultados da avaliação talvez 
 
 JULIANO
-- Revisão > mapamento de regras
-- Table 6 aplicar algum critério de ordenação, pelo Score Total
-- Page 43 quais foram os aspectos manuais que foram necessários para implementar, coisas que o Xtext não gera automaticamente, exaltando o trabalho desenvolvido. Não entrar em detalhes técnicos, mas citar algumas para demonstrar o que foi realizado.
-- Na versão final do volume incluir os artefatos experimentais como Apêndices
-- Comentar e reforçar, sendo mais imparcial, sobre as desvantagens de se usar uma DSL textual
-- Diagrama de Ocorrências é muito eficiente para esclarecer dúvidas. Seria possível implementar isso, para demonstrar e esclarecer tais dúvidas dos docentes. Seria uma grande contribuição para o ensino de banco de dados.
-- Por que usar Desktop e não Web? Incluir e responder esse questionamento.
-- Round-tripping engineering: ciclo de engenharia reversa completo.
-- Quais a dificuldade para gerar para outros modelos físicos?
-- No experimento não ficou claro como foi realizado as avaliações dos modelos realizados. Detalhar um pouco mais. Talvez citar um exemplo de modelo referência e a contagem de um exemplo mal modelado.
-- Experimentação com problemas simples, médios e complexos.
+[ ] - Revisão > mapamento de regras
+[V] - Table 6 aplicar algum critério de ordenação, pelo Score Total 
+[ ] - Page 43 quais foram os aspectos manuais que foram necessários para implementar, coisas que o Xtext não gera automaticamente, exaltando o trabalho desenvolvido. Não entrar em detalhes técnicos, mas citar algumas para demonstrar o que foi realizado.
+[ ] - Na versão final do volume incluir os artefatos experimentais como Apêndices
+[ ] - Comentar e reforçar, sendo mais imparcial, sobre as desvantagens de se usar uma DSL textual
+[ ] - Diagrama de Ocorrências é muito eficiente para esclarecer dúvidas. Seria possível implementar isso, para demonstrar e esclarecer tais dúvidas dos docentes. Seria uma grande contribuição para o ensino de banco de dados.
+[ ] - Por que usar Desktop e não Web? Incluir e responder esse questionamento.
+[ ] - Round-tripping engineering: ciclo de engenharia reversa completo.
+[ ] - Quais a dificuldade para gerar para outros modelos físicos?
+[ ] - No experimento não ficou claro como foi realizado as avaliações dos modelos realizados. Detalhar um pouco mais. Talvez citar um exemplo de modelo referência e a contagem de um exemplo mal modelado.
+[V] - Experimentação com problemas simples, médios e complexos.
 
 BASSO
-- Versionamento e Diff entre modelos > Evolução do Banco de Dados
+[X] - Versionamento e Diff entre modelos > Evolução do Banco de Dados
 
 Sugestão de alteraçãp do título
 ERtext: a text-based approach for designing and conceptual modeling relational databases
