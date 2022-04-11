@@ -25,7 +25,7 @@ JULIANO
 [V] - Table 6 aplicar algum critério de ordenação, pelo Score Total 
 [ ] - Page 43 quais foram os aspectos manuais que foram necessários para implementar, coisas que o Xtext não gera automaticamente, exaltando o trabalho desenvolvido. Não entrar em detalhes técnicos, mas citar algumas para demonstrar o que foi realizado.
 [ ] - Na versão final do volume incluir os artefatos experimentais como Apêndices
-[ ] - Comentar e reforçar, sendo mais imparcial, sobre as desvantagens de se usar uma DSL textual
+[V] - Comentar e reforçar, sendo mais imparcial, sobre as desvantagens de se usar uma DSL textual
 [ ] - Diagrama de Ocorrências é muito eficiente para esclarecer dúvidas. Seria possível implementar isso, para demonstrar e esclarecer tais dúvidas dos docentes. Seria uma grande contribuição para o ensino de banco de dados.
 [ ] - Por que usar Desktop e não Web? Incluir e responder esse questionamento.
 [ ] - Round-tripping engineering: ciclo de engenharia reversa completo.
