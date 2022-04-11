@@ -28,7 +28,7 @@ JULIANO
 [V] - Comentar e reforçar, sendo mais imparcial, sobre as desvantagens de se usar uma DSL textual
 [ ] - Diagrama de Ocorrências é muito eficiente para esclarecer dúvidas. Seria possível implementar isso, para demonstrar e esclarecer tais dúvidas dos docentes. Seria uma grande contribuição para o ensino de banco de dados.
 [ ] - Por que usar Desktop e não Web? Incluir e responder esse questionamento.
-[ ] - Round-tripping engineering: ciclo de engenharia reversa completo.
+[V] - Round-tripping engineering: ciclo de engenharia reversa completo.
 [V] - Quais a dificuldade para gerar para outros modelos físicos?
 [ ] - No experimento não ficou claro como foi realizado as avaliações dos modelos realizados. Detalhar um pouco mais. Talvez citar um exemplo de modelo referência e a contagem de um exemplo mal modelado.
 [V] - Experimentação com problemas simples, médios e complexos.
